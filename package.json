@@ -1,0 +1,16 @@
+{
+  "name": "web-scraper-easy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "node-localstorage": "^2.2.1",
+    "nodemon": "^2.0.13"
+  }
+}
